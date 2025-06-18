@@ -53,7 +53,7 @@ Portofolio ini dibangun menggunakan [Start Bootstrap Resume Theme](https://start
 ## 📫 Kontak
 
 - Email: hellenaputrisitopu@gmail.com  
-- LinkedIn: [linkedin.com/in/hellenaputrisitopu](www.linkedin.com/in/hellena-putri-sitopu)
+- LinkedIn: [linkedin.com/in/hellenaputrisitopu](https://www.linkedin.com/in/hellena-putri-sitopu/)
 
 
 ## 📌 Lisensi
